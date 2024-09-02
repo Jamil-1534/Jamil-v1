@@ -1,0 +1,43 @@
+"""x=5
+y=6
+print(x,y)
+print(type(x))
+print("Margub Hasan Jamil")
+print("weacome to the Python Programing")
+#Use of in Paeameter
+print("Margub Hasan Jamil",end="")
+print("weacome to the Python Programing",end="")
+
+#Use of end Paeameter
+print("Margub Hasan Jamil",end="")
+print("weacome to the Python Programing")
+
+#Use of in Sep Paeameter
+print("Margub Hasan Jamil","weacome to the Python Programing",2024)
+#Print ("weacome to the Python Programing")
+print("Margub Hasan Jamil","weacome to the Python Programing",2024,sep=",")
+
+#to multipol cotasion use 3"
+
+#use of format()
+x=5
+y=6
+print("value of x is{} and y is {}".format(x,y))
+
+#use of input()
+x=input("Enetr the value of x")
+y=input("Enetr the value of y")
+print("value of x is{} and Y is {}".format(x,y))
+
+x=int(input("Enetr the value of x"))
+y=float(input("Enetr the value of y"))
+print("value of x is{} and Y is {}".format(x,y))"""
+
+"""a,b,c=7,8,9
+a=b=c=10"""
+
+#use of split()
+a,b,c= map(int, input("Enter the value of a, b, c").split())
+print(a,b,c)
+
+#use of map()
